@@ -77,7 +77,7 @@ Gunakan **token** ini untuk mengakses endpoint yang memerlukan autentikasi.
 
 ---
 
-## API Lagu
+## API Songs
 Semua endpoint lagu memerlukan **Bearer Token** dalam header.
 
 ### ** Upload Lagu**
@@ -111,7 +111,7 @@ GET /songs/{id}
 Authorization: Bearer <JWT_TOKEN>
 ```
 
-### **4 Hapus Lagu**
+### ** Hapus Lagu**
 ```http
 DELETE /songs/{id}
 Authorization: Bearer <JWT_TOKEN>
