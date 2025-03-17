@@ -4,6 +4,10 @@ API sederhana untuk mengelola lagu menggunakan **NestJS** dan **MongoDB**, serta
 
 ---
 
+## Dokumentasi
+- Swagger: http://localhost:3000/api/docs/
+---
+
 ## Teknologi yang Digunakan
 - **NestJS** (Framework Node.js)
 - **MongoDB** (Database NoSQL)
