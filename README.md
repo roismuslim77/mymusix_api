@@ -126,7 +126,7 @@ http://localhost:3000/uploads/song1.mp3
 
 ## Kesimpulan
 Music API ini memungkinkan pengguna untuk:
-✅ **Mengunggah lagu**
-✅ **Mengelola daftar lagu**
-✅ **Menggunakan JWT untuk keamanan API**
+- **Mengunggah lagu**
+- **Mengelola daftar lagu**
+- **Menggunakan JWT untuk keamanan API**
 
