@@ -6,6 +6,7 @@ API sederhana untuk mengelola lagu menggunakan **NestJS** dan **MongoDB**, serta
 
 ## Dokumentasi
 - Swagger: http://localhost:3000/api/docs/
+- Postman: MyMusix.postman_collection.json
 ---
 
 ## Teknologi yang Digunakan
