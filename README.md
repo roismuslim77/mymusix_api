@@ -88,6 +88,10 @@ Content-Type: multipart/form-data
 ```
 **Body:**
 - `file`: (mp3 file)
+- `title`: judul lagu
+- `artist`
+- `album`
+- `duration`
 
 ### ** Dapatkan Semua Lagu**
 ```http
