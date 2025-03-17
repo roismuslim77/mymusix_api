@@ -1,4 +1,4 @@
-# 🎵 Music API
+# MyMusix API
 
 API sederhana untuk mengelola lagu menggunakan **NestJS** dan **MongoDB**, serta dilengkapi dengan **JWT Authentication**.
 
@@ -40,7 +40,7 @@ npm run start:dev
 
 ---
 
-## 🔑 Autentikasi (JWT)
+## Autentikasi (JWT)
 Sebelum mengakses API, pengguna harus **register dan login** untuk mendapatkan token JWT.
 
 ### ** 1 Register**
