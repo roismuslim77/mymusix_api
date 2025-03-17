@@ -115,12 +115,6 @@ GET /songs/{id}
 Authorization: Bearer <JWT_TOKEN>
 ```
 
-### ** Hapus Lagu**
-```http
-DELETE /songs/{id}
-Authorization: Bearer <JWT_TOKEN>
-```
-
 ---
 
 Setiap file dapat diakses melalui:
